@@ -1,4 +1,4 @@
-# Smart Bill
+# 🧾 Smart Bill
 
 Smart Bill is a mobile application designed to help users efficiently track their expenses and income. It features a receipt scanner powered by machine learning to simplify the process of logging transactions. The app provides users with a streamlined interface to manage financial records, offering insights into spending habits and budgeting.
 
