@@ -16,6 +16,13 @@ Smart Bill is a mobile application designed to help users efficiently track thei
 - 🤖 **TensorFlow & Google's ML Kit** - Powers the receipt scanner with OCR capabilities.
 - 🔥 **Firebase** - Handles user authentication and data security.
 
+  
+
+## 🎬 Live Demo
+
+📌 Check out **Smart Bill** on [Youtube](https://www.youtube.com/watch?v=3HiHqVXET5k) for more details!
+
+
 ## Getting Started
 
 ### Prerequisites
