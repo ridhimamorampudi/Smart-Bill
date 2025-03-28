@@ -27,7 +27,7 @@ Smart Bill is a mobile application designed to help users efficiently track thei
 
 1. **Clone the Repository**
    ```bash
-   git clone [repository URL]
+   git clone https://github.com/ridhimamorampudi/Smart-Bill
    ```
 2. **Navigate to the Project Directory**
    ```bash
